@@ -1,8 +1,6 @@
 ### Hola, I'm Bhanu Prasad Dobbala 👋
 
-**iambanu/iambanu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+My Bio:
 
 - 🔭 I’m currently working on Alexa Data Service at Amazon.
 - 🌱 I’m currently learning to manage my time, and be productive
