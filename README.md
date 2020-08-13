@@ -1,8 +1,12 @@
 ### Hola, I'm Bhanu Prasad Dobbala 👋
 
-My Bio:
+“You can have data without information, but you cannot have information without data.” – Daniel Keys Moran.
 
-- 🔭 I’m currently working on Alexa Data Service at Amazon.
+“The world is one big data problem.”
+
+My life thumbnail sketch:
+
+- 🔭 I’m currently working on Alexa Data Services at Amazon.
 - 🌱 I’m currently learning to manage my time, and be productive
 - 👯 I’m looking to collaborate on any idea that impresses me
 - 🤔 I’m looking for help with AI, DL, AWS and AZURE 
