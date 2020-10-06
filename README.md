@@ -6,7 +6,7 @@
 
 My life thumbnail sketch:
 
-- 🔭 I’m currently working on Alexa Data Services at Amazon.
+- 🔭 I’m currently working as an Associate Data Scientist at Ecobiased Technologies.
 - 🌱 I’m currently learning to manage my time, and be productive
 - 👯 I’m looking to collaborate on any idea that impresses me
 - 🤔 I’m looking for help with AI, DL, AWS and AZURE 
